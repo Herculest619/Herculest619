@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista de Implantação de Sistemas | Software Developer | Redes FTTH | Graduando em Eng. da Computação
+Graduando em Eng. da Computação | Analista de Implantação de Sistemas | Software Developer | Redes FTTH
 
 
 ## 🌐 Socials:
