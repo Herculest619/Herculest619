@@ -16,7 +16,9 @@ Graduando em Eng. da Computação | Analista de Implantação de Sistemas | Soft
 ![](https://github-profile-trophy.vercel.app/?username=Herculest619&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+---
 [![](https://visitcount.itsvg.in/api?id=Herculest619&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
