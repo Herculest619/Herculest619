@@ -19,5 +19,3 @@ Graduando em Eng. da Computação | Analista de Implantação de Sistemas | Soft
 [![](https://visitcount.itsvg.in/api?id=Herculest619&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![snake gif](https://github.com/Herculest619/Herculest619/blob/output/github-contribution-grid-snake.svg)
