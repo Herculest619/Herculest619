@@ -20,4 +20,4 @@ Graduando em Eng. da Computação | Analista de Implantação de Sistemas | Soft
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/Herculest619/Herculest619/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Herculest619/Herculest619/blob/output/github-contribution-grid-snake.svg)
