@@ -1,43 +1,35 @@
 # 💫 Hércules Teixeira
 
-**Graduando em Engenharia da Computação (UFOP)** | **Analista de Sistemas** | **Especialista em Infraestrutura e Redes**
+**Graduando em Engenharia da Computação (UFOP)** | **Analista de Sistemas na TropicalNet Telecomunicações** | **Empreendedor de TI**
 
-Profissional de Tecnologia da Informação com atuação focada no gerenciamento e escalabilidade de infraestrutura para provedores de internet (ISP) e redes corporativas. Possuo sólida experiência na administração de ambientes Linux e no design de topologias de rede de alta disponibilidade, aliando o rigor acadêmico da Engenharia da Computação a aplicações práticas no mercado de telecomunicações.
+Atuo com foco em infraestrutura de redes de alta disponibilidade e gestão de servidores. Minha experiência profissional e acadêmica é centrada no ecossistema de provedores de internet (ISP), com domínio em tecnologias de fibra óptica e virtualização avançada.
 
-### 🔭 Foco Técnico e Atuação Profissional:
-*   **Virtualização & Storage Distribuído:** Arquitetura e gerenciamento de clusters utilizando **Proxmox VE**, **Ceph Storage** e **TrueNAS SCALE** (com foco no TCC focado na implementação de sistemas de virtualização distribuída).
-*   **Redes & Roteamento Avançado:** Configuração de core de rede com **MikroTik (RouterOS)** e **Ubiquiti**, implantação e troubleshooting de redes **FTTH**, engenharia de tráfego, VPNs, e soluções de Telefonia IP/PABX Virtual.
-*   **Administração de Sistemas e DevOps:** Gerenciamento avançado de servidores Linux (Debian, Ubuntu, Kali), orquestração e conteinerização de serviços via **Docker**, além de automação e auditoria utilizando **Shell Script** e ferramentas de rede (Nmap, Netcat).
-*   **Data & Self-Hosting:** Experiência no deploy de serviços on-premise (Jellyfin), gestão de bancos de dados (PostgreSQL, MySQL) e documentação técnica em LaTeX.
+### 🛠️ Especialidades Técnicas:
+*   **Redes & Telecom:** Especialista em Redes FTTH, Roteamento Avançado com MikroTik (RouterOS), Ubiquiti, e soluções de Telefonia IP/PABX Virtual.
+*   **Virtualização & Infra:** Administração de ambientes virtualizados com Proxmox VE, orquestração com Docker e armazenamento distribuído via Ceph Storage (tema central do meu TCC II).
+*   **Sistemas & Automação:** Gestão de servidores Linux (Ubuntu, Debian, Kali), automação via Shell Script, e monitoramento/auditoria com ferramentas de rede (Nmap, Netcat).
+*   **Desenvolvimento & Dados:** Stack focada em C/C++, Python e Java, com gestão de bancos de dados PostgreSQL e MySQL.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/hercules_txr) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hercules-a-teixeira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hercules-a-teixeira) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/hercules_txr)
 
 ---
 
 # 💻 Tech Stack
 
-### 🚀 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ### 🖥️ Infrastructure, Network & Virtualization
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenStack](https://img.shields.io/badge/Openstack-f01742?style=for-the-badge&logo=openstack&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-EE3224?style=for-the-badge)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 Data & Tools
+### 🚀 Programming & Data
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -45,8 +37,9 @@ Profissional de Tecnologia da Informação com atuação focada no gerenciamento
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Herculest619&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herculest619&layout=compact&theme=dracula" alt="Top Languages" />
+  <!-- Fix: Removido 'em' do height para carregar corretamente -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Herculest619&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herculest619&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ### 🏆 Achievements & Streaks
